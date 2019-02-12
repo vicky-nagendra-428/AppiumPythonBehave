@@ -1,0 +1,13 @@
+iPhone8Plus:
+  appName: TestApp.app
+  platformName: ios
+  platformVersion: 11.2
+  deviceName: iPhone 8 Plus
+  udid: F59C3232-0614-4CD7-923F-4481F58F6490
+
+iPhoneX:
+  appName: TestApp.app
+  platformName: ios
+  platformVersion: 11.2
+  deviceName: iPhoneX
+  udid: 1BB29D3C-BB17-42FF-A3C2-48070E2894D8
