@@ -10,7 +10,8 @@ install intelliJ or what ever IDE you like to code
 
 install behave package
 
-install appium, selenium and other required packages
+install other required packages
+
 --------------------------------------------------
 
 
