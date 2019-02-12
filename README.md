@@ -5,8 +5,11 @@ And I have used IOS test app for writing test cases.
 Prerequisites
 --------------------------------------------------
 install python
+
 install intelliJ or what ever IDE you like to code
+
 install behave package
+
 install appium, selenium and other required packages
 --------------------------------------------------
 
